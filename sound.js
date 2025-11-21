@@ -2,7 +2,7 @@ let mySound;
 
 function preload() {
   soundFormats('mp3', 'ogg');
-  mySound = loadSound('hip_hop_beat.mp3');
+  mySound = loadSound("hip_hop_beat.mp3");
 }
 
 function setup() {
